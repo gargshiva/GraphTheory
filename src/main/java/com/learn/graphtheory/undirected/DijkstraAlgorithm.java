@@ -8,7 +8,7 @@ import java.util.*;
  * Drawback :  Dijkstra algorithm may or may not work , if weights are negative;
  * Consider Bellman-Ford algorithm
  */
-public class DijkstraAlgorithm {
+public class    DijkstraAlgorithm {
 
     public static void main(String[] args) {
         UndirectedGraph undirectedGraph = new UndirectedGraph();
